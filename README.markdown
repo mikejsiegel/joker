@@ -1,0 +1,1 @@
+This app is to post 140 character jokes.  
